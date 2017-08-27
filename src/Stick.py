@@ -17,7 +17,7 @@ class Stick:
 
 
 	def __init__(self, name, surface):
-		self.url_folder = "/home/testme/Pictures/stick2"
+		self.url_folder = "../images"
 		self.image_percentage_size = 0.5
 		self.count_image = 0
 		self.current_image = None
